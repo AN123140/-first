@@ -3,6 +3,8 @@ include<stdio.h>
 int main()
 {
 
-	int a=0;
+	int b=9;
+	printf("b=%d/n",b);
+	printf("good luck");
 	return 0;
 }
